@@ -1,5 +1,9 @@
 # 🌟 ConfessaiApp: Seu Diário de Humor e Bem-Estar
 
+![Status do Deploy](https://img.shields.io/badge/Deploy-Firebase%20Hosting-brightgreen?style=flat-square&logo=firebase)
+![Licença](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
+![Tecnologias](https://img.shields.io/badge/Tecnologias-React%20%7C%20Firebase%20%7C%20Tailwind-informational?style=flat-square&logo=react)
+
 [Acesse o App Online Aqui!](https://confessai-97b1e.web.app/)
 
 ---
@@ -32,3 +36,4 @@ O projeto foi construído com as seguintes tecnologias:
     * **Firebase Authentication:** Gerenciamento de usuários e login com Google.
     * **Firestore:** Banco de dados NoSQL para armazenar registros de humor e dados do usuário.
     * **Firebase Hosting:** Hospedagem e deploy do aplicativo web.
+
