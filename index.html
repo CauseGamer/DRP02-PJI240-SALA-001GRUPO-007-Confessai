@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="/raw.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Confessaí - Diário de Emoções</title>
+
+    <!-- CARREGAMENTO DO TAILWIND VIA CDN (Necessário para evitar problemas de PostCSS) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+      /* Configuração para usar a fonte Inter e evitar bordas estranhas em botões */
+      body {
+        font-family: 'Inter', sans-serif;
+      }
+      button:focus {
+        outline: none;
+        box-shadow: none;
+      }
+      /* Remove margens e paddings padrão */
+      #root {
+        min-height: 100vh;
+      }
+    </style>
+
+  </head>
+  <body>
+    <!-- Onde o aplicativo React será montado -->
+    <div id="root"></div>
+    <!-- Script do ponto de entrada do React -->
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
