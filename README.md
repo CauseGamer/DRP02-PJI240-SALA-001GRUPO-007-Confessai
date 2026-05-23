@@ -4,7 +4,7 @@
 ![Licença](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-React%20%7C%20Firebase%20%7C%20Tailwind-informational?style=flat-square&logo=react)
 
-[Acesse o App Online Aqui!](https://confessai-97b1e.web.app/)
+[Acesse o App Online Aqui!](https://confessai-929b9.web.app/)
 
 ---
 
